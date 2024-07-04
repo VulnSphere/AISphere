@@ -1,5 +1,4 @@
-Nuclei templates of ML
-
+This repository is a collection of exploits and scanning templates for responsibly disclosed vulnerabilities affecting machine learning tools.
 
 <!---
 VulnSphere/VulnSphere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
